@@ -27,4 +27,4 @@
 
 - [정애리](https://github.com/aeri123443): 팀장, front-end 개발
 - 송민석: 팀원, back-end 개발
-- [신현서](https://github.com/Leafxi): hardware 개발
+- [신현서](https://github.com/Leafxi): 팀원, hardware 개발
