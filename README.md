@@ -21,7 +21,7 @@
 - 교내 캡스톤디자인 경진대회 우수상
 - 2023 한국실천공학교육학회 종합학술대회 우수논문상
 - Global Capstone Design Performance Exchange Conference 참여
-- 학회논문 등재 예정
+- 학회논문 등재 (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003139227)
   
 ## 팀원
 
